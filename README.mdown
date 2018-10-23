@@ -1,0 +1,9 @@
+# Udacity-DA_Nanodegree----Investigate_a_Dataset--Titanic Data Analysis
+
+Hello Everyone!
+I am saeed falana from Palestine with specializations in computer information Systems . My ultimate aim is to derive some great results by combining the knowledge and Experince.
+I am passionate about data and insights. I love Data science and Analytics. As one of the important steps I have joined Data Analyst Nanodegree.
+
+#### "Udacity-DA_Nanodegree" repositories, I will be showing my projects in the Udacity's Data Analyst Nanodegree.
+
+# Project - Investigate_a_Dataset---Titanic Data Analysis
